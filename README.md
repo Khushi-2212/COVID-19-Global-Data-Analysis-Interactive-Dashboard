@@ -3,7 +3,7 @@
 **Author:** Khushi Dave  
 **Objective:** Analyze COVID-19 trends globally, derive insights, visualize data, and build an interactive dashboard.
 
----
+--- 
 
 ## ⚙️ Tech Stack
 - **Python** (pandas, numpy, matplotlib, seaborn)
