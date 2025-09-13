@@ -5,9 +5,6 @@
 
 ---
 
-## 📸 Screenshot
-
-
 ## ⚙️ Tech Stack
 - **Python** (pandas, numpy, matplotlib, seaborn)
 - **Plotly** for interactive charts
