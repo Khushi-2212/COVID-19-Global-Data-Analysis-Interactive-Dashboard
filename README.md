@@ -6,11 +6,7 @@
 ---
 
 ## 📸 Screenshot
-(Add screenshots in the `screenshots/` folder and link here)
 
-![Dashboard Screenshot](screenshots/s1.png)
-
----
 
 ## ⚙️ Tech Stack
 - **Python** (pandas, numpy, matplotlib, seaborn)
